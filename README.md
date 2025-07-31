@@ -1,6 +1,22 @@
-# React + Vite
+# Mapping Data to Components 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The goal of this project is to build a styled emoji dictionary website. A styles.css .The main objective is to use the knowledge of mapping components in React to dynamically render emoji entries.
+
+
+# This Project helped to practice:
+
+Extracting reusable components in React.
+Passing data via props to components.
+Importing and exporting JavaScript modules.
+Using the map() function to render lists of components dynamically.
+
+
+# Key Takeaways
+
+Created a reusable React component to represent individual emoji entries.
+Used props to pass dynamic data such as emoji, name, and description to components.
+Imported and mapped through an array of emoji data to dynamically render components.
+Applied best practices like assigning unique keys when rendering lists in React.
 
 Currently, two official plugins are available:
 
